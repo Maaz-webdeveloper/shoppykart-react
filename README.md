@@ -1,4 +1,4 @@
-##ShoppyKart React
+# ShoppyKart React
 
 Live Demo: https://shoppykart-react.vercel.app
 

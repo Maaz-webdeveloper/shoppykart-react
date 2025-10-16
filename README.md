@@ -15,7 +15,7 @@ In the project directory, you can run:
 
 npm start
 
-Runs the app in the development mode.
+Runs the app in development mode.
 Open http://localhost:3000
  in your browser.
 
@@ -29,10 +29,4 @@ Builds the app for production in the build folder.
 
 npm run eject
 
-One-way operation that gives full control over the configuration.
-
-Learn More
-
-Create React App Documentation
-
-React Documentation
+One-way operation that gives full control over configuration.
